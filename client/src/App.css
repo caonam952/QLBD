@@ -1,0 +1,11 @@
+@import "~antd/dist/antd.css";
+
+.App {
+  text-align: center;
+}
+.ant-statistic-title{
+  font-weight: bold;
+  color:#0000006e;
+  font-size: 15px;
+}
+

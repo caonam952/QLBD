@@ -1,0 +1,68 @@
+.powerbi-page {
+  margin: -14px -14px -14px -14px;
+  display: block;
+  text-align: center;
+  background-color: #f0f2f5;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  border-radius: 5px;
+}
+.report-style-class {
+  height: 80vh;
+  margin: 1% auto;
+  width: 90%;
+}
+
+.card_body {
+  height: 300px;
+  display: inline-block;
+  text-align: center;
+}
+
+.card_content {
+  border: 1px solid;
+  height: 300px;
+  width: 300px;
+}
+.space-around {
+  color: #e6d0d0;
+}
+
+.sta {
+  min-height: 120px;
+  padding-top: 28px;
+}
+.tag1 {
+  background: linear-gradient(to right, #f59a74, #feb798);
+  border-radius: 5px;
+}
+
+.tag2 {
+  background: linear-gradient(to right, #4bebb3, #88f0cc);
+  border-radius: 5px;
+}
+.tag3 {
+  background: linear-gradient(to right, #fa808f, #faadb6);
+  border-radius: 5px;
+}
+.tag4 {
+  background: linear-gradient(to right, #5b92f7, #96b0f8);
+  border-radius: 5px;
+}
+.col-chart {
+  background-color: #ffff;
+  border-radius: 8px;
+  padding: 24px;
+  min-height: 500px;
+}
+.row-chart {
+  margin-top: 33px;
+}
+.row-quantity {
+  margin-bottom: 24px;
+}
+
+.ctpt-scroll {
+  height: 200px;
+  overflow-y: scroll;
+}
